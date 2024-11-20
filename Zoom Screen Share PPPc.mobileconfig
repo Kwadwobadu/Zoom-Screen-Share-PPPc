@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>PayloadDescription</key>
-			<string>This will allow the user to enable screen sharing and mouse input without admin password</string>
+			<string>This configuration profile enables screen sharing and accessibility in Zoom allowing the user to share their screen.</string>
 			<key>PayloadDisplayName</key>
 			<string>Zoom Screen Share PPPc</string>
 			<key>PayloadEnabled</key>
@@ -57,9 +57,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Allows Zoom to share screen without entering Admin Cred
-
-Added by KB</string>
+	<string>This configuration profile enables screen sharing and accessibility in Zoom allowing the user to share their screen.</string>
 	<key>PayloadDisplayName</key>
 	<string>Zoom Screen Share PPPc</string>
 	<key>PayloadEnabled</key>
